@@ -4,7 +4,7 @@ I am currently enrolled in the Master’s in Computational Analysis and Public P
 
 👩‍💻You can see my projects at the links below:
 
-Income Distribution Effects:
-For this project, our team used publicly available datasets to build a Python command-line interface that examines how income distribution influences health and education outcomes. We analyzed six key socioeconomic and demographic variables, including the Gini index, median income, poverty rate, unemployment rate, life expectancy, and educational attainment. Full documentation and code are available in the Git repository.
+- [Income Distribution Effects](https://github.com/uchicago-2026-capp30122/project-income-distribution-effects):
+For this project, our team used publicly available datasets to build a Python command-line interface that examines how income distribution influences health and education outcomes. We analyzed six key socioeconomic and demographic variables, including the Gini index, median income, poverty rate, unemployment rate, life expectancy, and educational attainment. Full documentation and code are available in the [Git repository](https://github.com/uchicago-2026-capp30122/project-income-distribution-effects).
 
-Feel free to connect with me on LinkedIn!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kumhyunsong/)!
