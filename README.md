@@ -13,6 +13,6 @@ For this project, our team used publicly available datasets to build a Python co
 
 
 🌱I'm developing my skills in:
-Python, R, Git
+Python R Git
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kumhyunsong/)!
